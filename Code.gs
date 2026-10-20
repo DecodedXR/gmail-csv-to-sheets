@@ -1,3 +1,5 @@
+/** @OnlyCurrentDoc */ // asks Google for access to this spreadsheet only, not all your sheets
+
 /**
  * Gmail CSV to Sheets: import CSV attachments from matching emails into this sheet, automatically.
  *
