@@ -1,0 +1,4 @@
+title: Free Gmail CSV to Google Sheets import
+description: Import CSV attachments from Gmail into Google Sheets automatically, every hour. Free Apps Script, no add-on.
+plugins:
+  - jekyll-sitemap
