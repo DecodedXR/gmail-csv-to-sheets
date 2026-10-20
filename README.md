@@ -11,6 +11,8 @@ Get the CSV reports that arrive by email (daily sales, bank exports, ad spend, i
 
 New to this? Read the [step-by-step guide](https://decodedxr.github.io/gmail-csv-to-sheets/import-csv-from-gmail-to-google-sheets.html).
 
+Files saved to a Drive folder instead of emailed? Use [Drive CSV to Sheets](https://github.com/DecodedXR/drive-csv-to-sheets).
+
 ## One-time setup (3 minutes)
 
 1. Open the sheet (and the tab) the data should go into.
