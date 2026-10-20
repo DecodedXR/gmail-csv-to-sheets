@@ -1,6 +1,7 @@
 ---
 title: How to import CSV attachments from Gmail into Google Sheets automatically (free)
 description: Automatically import CSV reports that arrive by email into a Google Sheet, every hour, appending or replacing data. Free Apps Script, no add-on or Zapier.
+image: https://decodedxr.github.io/gmail-csv-to-sheets/assets/cover.png
 ---
 {% raw %}
 
